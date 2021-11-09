@@ -1,6 +1,5 @@
 //this class will hold the variables and methods for the main
 import java.util.Scanner;
-import java.util.Arrays;
 public class Student {
  private int[] at = new int[3];
  private int[][] sched = new int[3][3];
